@@ -1,4 +1,4 @@
-https://github.com/ajhay81/landingpage-desgno/issues/1#issue-1969855802
+https://user-images.githubusercontent.com/82284895/279300439-e72435af-aaa6-40dd-8471-028a7a6eb3eb.png
 
 This is the first time I create website by my self with html, css and javaScript.
 This project or This project or exercise project was originally designed for use with astro.build, but as a beginner I find it is a As a beginner, I feel like I don't understand and master astro.build, and even now I'm still a beginner in the field of JavaScript (2023, 31th October).
