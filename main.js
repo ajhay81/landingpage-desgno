@@ -46,26 +46,15 @@ const company = document.getElementById ("company");
 const prevBtn = document.querySelector (".prev-btn");
 const nextBtn = document.querySelector (".next-btn");
 
-// set awal mula item
+//set first item
 let currentItem = 0;
 
 //load initial item 
 
 window.addEventListener('DOMContentLoaded', function () {
-  //console.log ("shake dan shack"); testing tampil di browser
-  /*const item = reviews [currentItem];
-  img.src = item.img;
-  author.textContent = item.author;
-  company.textContent = item.company;
-  comment.textContent = item.comment; */
-
-  //dipanggil dari function showPerson
-
-  showPerson(currentItem);
+   showPerson(currentItem);
 });
 
-//setelah ke-4 item ini dibuat kita buat function yang berisi ke-4 item diatas, 
-//jadi nanti yang diatas adalah pemanggilan funciton saja
 
 function showPerson(testimonial) {
   const item = reviews [testimonial];
