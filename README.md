@@ -7,7 +7,7 @@
 # Landing Page - DESGNO
 
 This is the first time I create website by my self with html, css and javaScript.
-This project or This project or exercise project was originally designed for use with [astro.build](https://astro.build/), but as a beginner I find it is a As a beginner, I feel like I don't understand and master astro.build, and even now I'm still a beginner in the field of JavaScript (2023, 31th October).
+This project or This project or exercise project was originally designed for use with [astro.build](https://astro.build/), but as a beginner I feel don't understand and master astro.build, and even now I'm still a beginner in the field of JavaScript (2023, 31th October).
 
 So I decided to make this landing page with firstly design the user interface in Figma.
 
