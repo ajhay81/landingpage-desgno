@@ -11,7 +11,7 @@ This project or This project or exercise project was originally designed for use
 
 So I decided to make this landing page with firstly design the user interface in Figma.
 
-and then try to create the website with basic code in HTML, CSS and JavaScript, and hope one day I can recreate this page full in astro.build or better JavaScript.
+and then try to create the website with basic code in HTML, CSS and JavaScript, and hope one day I can recreate this page full in astro.build or better JavaScript, or in the next time I'll try to make it a responsive landing page.
 
 I create this website within 2 weeks, LOL, but I gain a lot of experience, and it is true when @Thomas Weibenfalk says "If you want to code, you have to type it, not copy paste, because it is the way you memorize the code'.
 
